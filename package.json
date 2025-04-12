@@ -1,0 +1,21 @@
+{
+  "name": "ollamapost",
+  "version": "1.0.0",
+  "bin": {
+    "ai": "./main.js"
+  },
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "axios": "^1.8.4",
+    "commander": "^13.1.0",
+    "inquirer": "^12.5.2"
+  }
+}
