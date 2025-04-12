@@ -17,7 +17,7 @@ This tool provides an interactive CLI experience for generating text with Ollama
 
 1. Clone this repository or download the source files
 ```bash
-git clone https://github.com/yourusername/ollama-cli-tool.git
+git clone https://github.com/photomanai/ollama-cli-tool.git
 cd ollama-cli-tool
 ```
 
@@ -37,7 +37,7 @@ You can install the tool globally to use the `ai` command from anywhere:
 
 1. Clone and navigate to the repository
 ```bash
-git clone https://github.com/yourusername/ollama-cli-tool.git
+git clone https://github.com/photomanai/ollama-cli-tool.git
 cd ollama-cli-tool
 ```
 
