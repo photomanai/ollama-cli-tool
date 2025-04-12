@@ -4,13 +4,19 @@
   "bin": {
     "ai": "./main.js"
   },
-  "description": "",
+  "description": "A lightweight CLI tool built with Ollama to assist in generating and managing code snippets. It streamlines coding tasks by providing quick, AI-powered suggestions and automation for developers. Perfect for boosting productivity in small-scale projects.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "ollama",
+    "cli",
+    "code-generation",
+    "developer-tool",
+    "automation"
+  ],
+  "author": "PhotoManAi",
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
